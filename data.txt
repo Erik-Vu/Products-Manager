@@ -1,0 +1,9 @@
+a01,sting,74,1.1
+a02,pesi,56,1.03
+a07,revice,10,1.5
+c02,cafe,12,3.6
+t10,tea,22,2.4
+s01,sugar,15,5.3
+f23,apple,9,3.7
+b35,beer,44,3.5
+w55,water,33,0.5
